@@ -7,10 +7,6 @@ This script implements the **Minimal Power Principle**, a method to determine th
 The generated figures and results illustrate how energy-efficient operation can be achieved under stepwise power constraints.
 
 ---
->(c) Tobias Hossfeld  (Feb 2026)<br><br>
-> This script implements the minimap power principle; the figures are part of the following paper, that is to be cited whenever the script is used (copyright CC BY-SA 4.0):<br>
-> *Kerry Hinton (, University of Melbourne, Australia) & Tobias Hoßfeld (University of Würzburg, Germany): "Energy Efficient Operation of Network Elements with Stepwise Power Profile" (Feb 2026)*
----
 
 ## Features
 - Implements the *Minimal Power Principle*
